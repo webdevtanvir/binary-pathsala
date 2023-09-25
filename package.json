@@ -1,0 +1,14 @@
+{
+  "name": "binary-pathsala",
+  "version": "1.0.0",
+  "description": "Educational website",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "Tanvir",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.4.9"
+  }
+}
