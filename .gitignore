@@ -1,2 +1,5 @@
-screenshots*
-video*
+/screenshots
+/video
+/node_modules
+package.json
+package-lock.json
