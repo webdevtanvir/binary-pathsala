@@ -1,5 +1,5 @@
-/screenshots
-/video
-/node_modules
+screenshots*
+video*
+node_modules*
 package.json
 package-lock.json
